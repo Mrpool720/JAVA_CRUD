@@ -1,2 +1,3 @@
 # JAVA_CRUD
-CRUD web application using Java, MySQL, HTML/JS
+CRUD web application using Java, MySQL, JSP and
+HTML/CSS.
