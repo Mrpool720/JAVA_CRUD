@@ -82,6 +82,11 @@
             background-color: #708CD5;
         }
         
+        @media screen and (max-width:1100px) {
+        	.parent {
+        		display: block;
+        	}
+        }
         
         
     </style>
